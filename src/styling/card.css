@@ -1,0 +1,17 @@
+
+.card-wrapper {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.created {
+    display: flex;
+    justify-content: end;
+    font-size: 10px;
+}
+
+.task-button-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
